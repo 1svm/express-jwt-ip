@@ -1,6 +1,6 @@
 {
   "name": "express-jwt-ip",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "IPv4/IPv6 based JWT authentication middleware.",
   "main": "lib/express-jwt-ip.js",
   "scripts": {
