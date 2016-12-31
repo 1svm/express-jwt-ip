@@ -1,0 +1,33 @@
+{
+  "name": "express-jwt-ip",
+  "version": "1.0.0",
+  "description": "IPv4/IPv6 based JWT authentication middleware.",
+  "main": "lib/express-jwt-ip.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "auth",
+    "authn",
+    "authentication",
+    "authz",
+    "authorization",
+    "http",
+    "jwt",
+    "token",
+    "oauth",
+    "express",
+    "jsonwebtoken",
+    "ip",
+    "ipv4",
+    "ipv6",
+    "middleware"
+  ],
+  "author": "Shivam Malhotra <developershivam01@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "compose-middleware": "^2.2.0",
+    "public-ip": "^2.0.1"
+  }
+}
